@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQd4TM3NDml29gK0iQeljwdt941boYriUsJJHjNRgnAIXVAP+8hTB4TUVjIol1E1jxP6ogK9LJM4fA3aXEMjQQ==",
+  "success": true,
+  "projectFilePath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Console.App\\MyProject.Console.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

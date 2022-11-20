@@ -1,0 +1,12 @@
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\bin\Debug\net5.0\MyPriject.MyContext.deps.json
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\bin\Debug\net5.0\MyPriject.MyContext.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\bin\Debug\net5.0\ref\MyPriject.MyContext.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\bin\Debug\net5.0\MyPriject.MyContext.pdb
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.csproj.AssemblyReference.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.AssemblyInfoInputs.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.AssemblyInfo.cs
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.csproj.CoreCompileInputs.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\ref\MyPriject.MyContext.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyPriject.MyContext\obj\Debug\net5.0\MyPriject.MyContext.pdb

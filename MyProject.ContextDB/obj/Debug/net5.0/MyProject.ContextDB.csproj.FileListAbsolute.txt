@@ -1,0 +1,12 @@
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\bin\Debug\net5.0\MyProject.ContextDB.deps.json
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\bin\Debug\net5.0\MyProject.ContextDB.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\bin\Debug\net5.0\ref\MyProject.ContextDB.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\bin\Debug\net5.0\MyProject.ContextDB.pdb
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.csproj.AssemblyReference.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.AssemblyInfoInputs.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.AssemblyInfo.cs
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.csproj.CoreCompileInputs.cache
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\ref\MyProject.ContextDB.dll
+C:\שבי תכנות\שנה ב\.Net\MyProject\MyProject.ContextDB\obj\Debug\net5.0\MyProject.ContextDB.pdb
