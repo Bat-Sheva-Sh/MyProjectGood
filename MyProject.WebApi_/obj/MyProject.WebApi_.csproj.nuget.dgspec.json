@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj": {}
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj": {}
   },
   "projects": {
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\MyProject.Common.csproj": {
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\MyProject.Common.csproj",
+        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj",
         "projectName": "MyProject.Common",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\MyProject.Common.csproj",
+        "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\obj\\",
+        "outputPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,80 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj": {
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj",
-        "projectName": "MyProject.Mock",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
+        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
         "projectName": "MyProject.MyDBContext1",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
+        "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\obj\\",
+        "outputPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,8 +91,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
               }
             }
           }
@@ -168,6 +107,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -185,7 +130,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -194,76 +140,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "projectName": "MyProject.Repositories",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
-        "projectName": "MyProject.Services",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\obj\\",
+        "outputPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,11 +172,84 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\MyProject.Common.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Common\\MyProject.Common.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
+        "projectName": "MyProject.Services",
+        "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Common\\MyProject.Common.csproj"
               },
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
               }
             }
           }
@@ -306,6 +267,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -314,7 +283,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -323,18 +293,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj": {
+    "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj",
+        "projectUniqueName": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj",
         "projectName": "MyProject.WebApi_",
-        "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj",
+        "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.WebApi_\\MyProject.WebApi_.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.WebApi_\\obj\\",
+        "outputPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.WebApi_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -355,17 +325,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj"
               },
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
               },
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
-              },
-              "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
-                "projectPath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.Services\\MyProject.Services.csproj"
+              "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
+                "projectPath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.Services\\MyProject.Services.csproj"
               }
             }
           }
@@ -401,10 +368,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -413,7 +387,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

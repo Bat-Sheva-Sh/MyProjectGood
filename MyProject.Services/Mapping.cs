@@ -9,18 +9,15 @@ using System.Threading.Tasks;
 
 namespace MyProject.Services
 {
-    public class Mapping:Profile
+    public class Mapping : Profile
     {
         public Mapping()
         {
-            //role
-            CreateMap<Role, RoleDTO>()
-                .ForMember(dest => dest.Title, opt => opt.MapFrom(src => src.Description))
-                .ReverseMap();
-            //claim
-            CreateMap<Claim, ClaimDTO>().ReverseMap();
-            //permission
-            CreateMap<Permission, PermissionDTO>().ReverseMap();
+            //child
+            CreateMap<Child, ChildDTO>().ReverseMap();
+            //user
+            CreateMap<User, UserDTO>().ReverseMap();
+
 
         }
     }

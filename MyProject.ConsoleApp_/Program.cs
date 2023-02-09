@@ -28,14 +28,14 @@ namespace MyProject.ConsoleApp_
 
             Console.WriteLine("=======");
 
-            RoleRepository roleRepository = new RoleRepository(context);
-            roleRepository.Add(3, "super user", "great");
+            //RoleRepository roleRepository = new RoleRepository(context);
+            //roleRepository.Add(3, "super user", "great");
 
-            ClaimRepository claimRepository = new ClaimRepository(context);
-            claimRepository.Add(3, 30, 300);
+            //ClaimRepository claimRepository = new ClaimRepository(context);
+            //claimRepository.Add(3, 30, 300);
 
-            PermissionRepository permissionRepository = new PermissionRepository(context);
-            permissionRepository.Add(3, "super- user", "SEE ALL");
+            //PermissionRepository permissionRepository = new PermissionRepository(context);
+            //permissionRepository.Add(3, "super- user", "SEE ALL");
 
             context.Roles.ForEach((role) =>
             {

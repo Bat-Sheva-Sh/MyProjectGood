@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6b5sk4YBYvCkD0rGAlQDamoGeLYJV4P1QUvJshAjcflSw0XMp3fkJkk784ty2erxEeXk4XxMNdCb4W7XX7dPw==",
+  "dgSpecHash": "AqdiO/Q9H8MQ1kneApdNLb7RU5QPqtvAF/ijtgla4MeeX7tpmBYodbiel2R/tW1WjDYvwdukc+57lfYLxxQX+g==",
   "success": true,
-  "projectFilePath": "C:\\שבי תכנות\\שנה ב\\.Net\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
+  "projectFilePath": "C:\\שבי תכנות\\שנה ב\\פרקטיקום\\MyProject\\MyProject.MyDBContext1\\MyProject.MyDBContext1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

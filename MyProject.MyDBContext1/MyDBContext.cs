@@ -1,15 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MyProject.Repositories.Entities;
+using MyProject.Repositories.Interfaces;
 using System;
 
 namespace MyProject.MyDBContext1
 {
-    public class MyDBContext:DbContext
+    public class MyDBContext: DbContext, IContext
     {
         private const string ConnectionString = "Connectionstring";
 
-        public DbSet<Role> Roles { get; set; }
-        public DbSet<Permission> Permissions { get; set; }
+        public DbSet<Child> Children { get; set; }
+        public DbSet<User> Users { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {

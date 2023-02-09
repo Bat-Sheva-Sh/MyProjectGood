@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using MyProject.Mock;
+using MyProject.MyDBContext1;
 using MyProject.Repositories.Interfaces;
 using MyProject.Repositories.Repositories;
 using MyProject.Services;
@@ -45,12 +45,10 @@ namespace MyProject.WebApi
                                   });
             });
             services.AddControllers();
-            services.AddSingleton<IRoleRepository, RoleRepository>();
-            services.AddSingleton<IClaimRepository, ClaimRepository>();
-            services.AddSingleton<IPermissionRepository, PermissionRepository>();
-            services.AddSingleton<IContext, MockContext>();
-
-            services.AddAutoMapper(typeof(Mapping));
+       
+            services.AddServices();
+            
+            services.AddDbContext<IContext, MyDBContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

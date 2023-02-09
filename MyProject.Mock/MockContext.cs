@@ -5,7 +5,7 @@ using MyProject.Repositories.Interfaces;
 
 namespace MyProject.Mock
 {
-    public class MockContext: IContext
+    public class MockContext/*: IContext*/
     {
         public List<Role> Roles { get; set; }
         public List<Permission> Permissions { get; set; }
@@ -23,8 +23,8 @@ namespace MyProject.Mock
             this.Permissions.Add(new Permission { Id = 1, Name = "VIEW_ALL_ROLES" });
             this.Permissions.Add(new Permission { Id = 2, Name = "ADD_ROLE" });
 
-            this.Claims.Add(new Claim { Id = 1, RoleId= 10, PerId = 100 });
-            this.Claims.Add(new Claim { Id = 2, RoleId = 20, PerId = 200 });
+            this.Claims.Add(new Claim { Id = 1, RoleId= 2, PermissionId = 3 });
+            this.Claims.Add(new Claim { Id = 2, RoleId = 3,  PermissionId = 4 });
         }
     }
 }
